@@ -1,1 +1,1 @@
-# Course-Project-Content-Based-Image-Retrieval-
+# Course-Project-Content-Based-Image-Retrieval
